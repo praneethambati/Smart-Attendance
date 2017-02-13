@@ -27,7 +27,7 @@ namespace WebService2
             string connString = "SERVER=MYSQL5002.Smarterasp.net" + ";" +
                 "DATABASE=db_9ab3ca_pranu;" +
                 "UID=9ab3ca_pranu;" +
-                "PASSWORD=pintu848;" +
+                "PASSWORD=******;" +
                 "PORT=3306;";
 
             MySqlConnection cnMySQL = new MySqlConnection(connString);
